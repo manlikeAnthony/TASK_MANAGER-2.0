@@ -247,5 +247,5 @@ The API uses a consistent error response format:
 ## Contact
 For support or questions about the API, contact:
 - **Name**: Anthony
-- **Email**: your-email@example.com
+- **Email**: chibuikeonyejesitony@example.com
 
